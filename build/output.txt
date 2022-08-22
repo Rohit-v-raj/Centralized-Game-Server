@@ -1,0 +1,2 @@
+[H[2J[3JServer created! Waiting for Players
+Server received connections from 127.0.0.1

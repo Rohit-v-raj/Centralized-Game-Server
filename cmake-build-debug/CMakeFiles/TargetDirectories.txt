@@ -1,0 +1,7 @@
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/server.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/client.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/client1.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/client3.dir
+/home/rohit/CLionProjects/Tictactoe/cmake-build-debug/CMakeFiles/client2.dir
